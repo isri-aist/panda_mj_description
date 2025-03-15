@@ -12,18 +12,6 @@ Please make sure [mc_mujoco](https://github.com/rohanpsingh/mc_mujoco) is instal
 
 ## Install
 
-### Using mc-rtc-superbuild
-
-Please set `WITH_Panda` option to `ON`. 
-
-```bash
-cd mc-rtc-superbuild/build
-ccmake .
-# set `WITH_Panda` option to `ON`. Then press C and G
-make # will clone, build, install
-```
-
-
 ### From source 
 
 In order to install from source please run the following commands : 
